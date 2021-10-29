@@ -15,7 +15,7 @@ public class Homework3 {
         int userVal, secretVal;
         boolean flag = false;
         Scanner scanner = new Scanner(System.in);
-/*        while (true) {
+        while (true) {
             secretVal = random.nextInt(10);
 //            System.out.println(secretVal); // Подсказка для отладки ))
             for (int i = 0; i < 3; i++) {
@@ -44,7 +44,7 @@ public class Homework3 {
             userVal = scanner.nextInt();
             if (userVal == 0) break;
         }
- */
+
 // 2.  Создать массив из слов String[] words = {"apple", "orange", "lemon", "banana", "apricot", "avocado",
 // "broccoli", "carrot", "cherry", "garlic", "grape", "melon", "leak", "kiwi", "mango", "mushroom", "nut",
 // "olive", "pea", "peanut", "pear", "pepper", "pineapple", "pumpkin", "potato"}. При запуске программы компьютер
