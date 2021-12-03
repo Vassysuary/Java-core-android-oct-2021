@@ -65,4 +65,5 @@ public class Homework11 {
         numberApplesBox1.ShiftFruits(numberApplesBox);
         System.out.println("Total weight of apples: " + numberApplesBox.getWeight() + ".");
     }
+
 }
