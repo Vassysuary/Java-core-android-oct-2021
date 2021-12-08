@@ -5,6 +5,7 @@ public class Apple extends Fruit {
     int number;
     public float weight = 1.0f;
 
+
     public Apple(int number) {
         this.number = number;
     }

@@ -7,6 +7,7 @@ public class Box <T extends Fruit> {
 
     private List<T> numberInBox;
 
+
     public Box(List<T> numberInBox) {
         this.numberInBox = new ArrayList<>(numberInBox);
     }
